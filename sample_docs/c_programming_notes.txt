@@ -1,0 +1,21 @@
+# C Programming Fundamentals & Memory Management
+
+## 1. Functions in C
+Functions in C programming are self-contained blocks of code designed to perform a specific task. They enable code modularity, reusability, and clean architecture. A C function consists of a return type, function name, parameter list, and function body.
+Example:
+int add(int a, int b) {
+    return a + b;
+}
+
+## 2. Pointers in C
+A pointer is a variable that stores the memory address of another variable. Pointers are fundamental in C for dynamic memory allocation, array manipulation, and passing parameters by reference.
+The dereference operator (*) accesses the value stored at the address, while the address-of operator (&) retrieves the memory address of a variable.
+
+## 3. Dynamic Memory Allocation
+Dynamic memory allocation allows programs to request memory from the heap during execution (runtime).
+- malloc(size): Allocates a contiguous block of memory of specified bytes and returns a void pointer.
+- free(ptr): Deallocates memory previously allocated by malloc to prevent memory leaks.
+- Dynamic memory stays allocated until explicitly freed using free().
+
+## 4. Arrays and Memory Layout
+An array in C is a contiguous sequence of elements of the same data type stored in consecutive memory locations. The name of an array acts as a constant pointer to its first element.

@@ -1,0 +1,367 @@
+Day 1
+                                                                         l    o   . 
+Install C++ compiler
+
+Learn STL: vector
+
+Solve 5 array problems
+
+Day 2
+
+STL: pair, iterator
+
+5 problems on arrays
+
+Day 3
+
+STL: stack
+
+5 problems
+
+Day 4
+
+STL: queue
+
+5 problems
+
+Day 5
+
+STL: set & map
+
+5 problems
+
+Day 6
+
+Sorting in STL
+
+Solve 6 problems
+
+Day 7
+
+Learn time complexity
+
+Watch Abdul Bari Big-O video
+
+Solve 5 problems
+
+Day 8
+
+Arrays basics
+
+largest element
+
+second largest
+
+check sorted
+
+rotate array
+
+Day 9
+
+Arrays problems
+
+move zeros
+
+remove duplicates
+
+missing number
+
+Day 10
+
+Arrays medium problems
+
+union of arrays
+
+intersection
+
+Day 11
+
+Prefix sum problems
+
+Day 12
+
+Kadane’s algorithm
+
+Day 13
+
+Sliding window introduction
+
+Day 14
+
+Solve 10 array problems
+
+🔥 PHASE 2 — STRONG PROBLEM SOLVING (DAY 15–35)
+Day 15
+
+Two pointer technique
+
+Day 16
+
+Container with most water
+
+Day 17
+
+3 sum problem
+
+Day 18
+
+Majority element
+
+Day 19
+
+Next permutation
+
+Day 20
+
+Merge intervals
+
+Day 21
+
+Review all array concepts
+
+Day 22
+
+Strings basics
+
+Day 23
+
+Palindrome string problems
+
+Day 24
+
+Anagram problems
+
+Day 25
+
+Longest substring
+
+Day 26
+
+String hashing basics
+
+Day 27
+
+Recursion introduction
+
+Day 28
+
+Factorial recursion
+Fibonacci recursion
+
+Day 29
+
+Print subsequences
+
+Day 30
+
+Generate subsets
+
+Day 31
+
+Permutation problems
+
+Day 32
+
+Combination sum
+
+Day 33
+
+Backtracking practice
+
+Day 34
+
+Solve 8 recursion problems
+
+Day 35
+
+Recursion revision
+
+🔥 PHASE 3 — CORE DATA STRUCTURES (DAY 36–60)
+Day 36
+
+Linked list basics
+
+Day 37
+
+Insert / delete node
+
+Day 38
+
+Reverse linked list
+
+Day 39
+
+Middle of linked list
+
+Day 40
+
+Detect cycle
+
+Day 41
+
+Stack basics
+
+Day 42
+
+Valid parentheses
+
+Day 43
+
+Next greater element
+
+Day 44
+
+Monotonic stack
+
+Day 45
+
+Queue basics
+
+Day 46
+
+Implement queue using stack
+
+Day 47
+
+Binary search basics
+
+Day 48
+
+Binary search problems
+
+Day 49
+
+Search in rotated array
+
+Day 50
+
+Binary search on answer
+
+Day 51
+
+Binary tree basics
+
+Day 52
+
+Tree traversals
+
+Day 53
+
+Level order traversal
+
+Day 54
+
+Tree height
+
+Day 55
+
+Diameter of tree
+
+Day 56
+
+Balanced tree
+
+Day 57
+
+Lowest common ancestor
+
+Day 58
+
+Binary search tree
+
+Day 59
+
+BST operations
+
+Day 60
+
+Tree revision
+
+🔥 PHASE 4 — ADVANCED (DAY 61–90)
+Day 61
+
+Heap basics
+
+Day 62
+
+Priority queue problems
+
+Day 63
+
+Kth largest element
+
+Day 64
+
+Graph basics
+
+Day 65
+
+BFS
+
+Day 66
+
+DFS
+
+Day 67
+
+Number of islands
+
+Day 68
+
+Cycle detection graph
+
+Day 69
+
+Topological sort
+
+Day 70
+
+Shortest path BFS
+
+Day 71
+
+Dynamic programming intro
+
+Day 72
+
+Climbing stairs
+
+Day 73
+
+House robber
+
+Day 74
+
+Knapsack
+
+Day 75
+
+Longest common subsequence
+
+Day 76
+
+DP on strings
+
+Day 77
+
+DP on grids
+
+Day 78
+
+DP optimization
+
+Day 79–90
+
+Solve 100 mixed problems on
+LeetCode
+
+Goal:
+
+Easy: 60
+
+Medium: 35
+
+Hard: 5
+
+https://www.youtube.com/watch?v=koO01HI1Xto
+http://chatgpt.com/c/69b6ab5c-dea0-8321-a790-3b5f36189f72
